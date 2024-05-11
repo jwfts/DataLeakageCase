@@ -15,3 +15,5 @@ I'm using the following tools to accomplish this project:
 
 Other importan Linux commands 
   - plocate
+
+
