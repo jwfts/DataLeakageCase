@@ -13,7 +13,3 @@ I'm using the following tools to accomplish this project:
   - Kali Linux
   - The handbook provided by https://linuxleo.com/
 
-Other importan Linux commands 
-  - plocate
-
-
