@@ -12,4 +12,4 @@ If you're a student working on this exercise, I implore you to keep trying it on
 I'm using the following tools to accomplish this project:
   - Kali Linux
   - The handbook provided by https://linuxleo.com/
-
+Any walkthroughs I provide will have a more comprehensive list of tools.
